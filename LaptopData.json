@@ -1,0 +1,167 @@
+﻿[
+    {
+        "ID": "laptop1",
+        "PROD":"IdeaPad Slim 3 (15\" AMD) - Abyss Blue",
+        "GRPH":"Integrated AMD Radeon™ Graphics",
+        "PRC": 584.99,
+        "MSRP": 929.99,
+        "QTY": 3,
+        "BCKORDER": 1,
+        "DESC": "Make a statement wherever you go with the IdeaPad Slim 3 laptop, built for lightness and thinness, measuring up to 10% slimmer than the previous generation. Available in Arctic Grey and Abyss Blue, this sturdy build stands up to harsh drops with military-grade durability for extreme travel conditions. Enjoy a rich media experience on the IdeaPad Slim 3 laptop with its screen that takes up 88% of the display’s surface area for a picture that looks like it’s floating in space. Plus, the touchscreen display is TÜV Low Blue Light Certified, so if you need to work for a few hours, your eyes won’t get fatigued easily. And as you enjoy the visuals, you can also treat yourself to the amazing sound of Dolby Audio™. Work smart and seamlessly every day across multiple applications simultaneously while on the go with the robust performance of the latest AMD processors and abundant memory, enhanced by the adaptive performance of Smart Power. Store and quickly access your massive media library with plentiful SSD storage also. Go faster and farther in your digital life with full-function USB-C ports for accelerated power delivery, display output, and data transfer. Enjoy the convenience of the fingerprint reader that’s integrated with the power button, as well as a built-in webcam with a privacy shutter. Keep pace with a large battery and rapid-charging technology that provides two hours of use on a 15-minute charge. Smarter learning starts with smarter features powered by the Lenovo AI Engine. Maximize your performance, battery life, and thermals based on what you're doing with the adaptive Smart Power feature. At the same time, you improve your connectivity via Smart Wireless. Protect your system from harm with integrated security features such as Natural File Guard while you keep background noise to a minimum with noise canceling.",
+        "BRND":"Lenovo"
+    },
+    {
+        "ID": "laptop2",
+        "PROD": "Inspiration 16 laptop",
+        "GRPH": "AMD Radeon™ Graphics",
+        "PRC": 999.99,
+        "MSRP": 1399.99,
+        "QTY": 10,
+        "BCKORDER": 0,
+        "DESC": "See more with a 16-inch display on the width of a 15-inch laptop with a 16:10 aspect ratio on the new Inspiron 16 Plus. What you say is nice and clear with built in dual microphones and AI that reduces background noise. With an FHD camera paired with temporal noise reduction hardware and wide dynamic range software, you'll be seen with clarity under a range of lighting conditions. Don't miss a word with loud and clear audio with Waves MaxxAudio Pro and up-firing speakers. When you need to disconnect, a mechanical camera privacy shutter gives you peace- of - mind. Explore your world with lightning-fast responsiveness and hyper-efficient battery life thanks to AMD Ryzen™ 5000 Series Processors with Radeon™ Graphics. A lid-open sensor turns on your device in a snap, and an optional fingerprint reader logs you in securely and instantly. For better transfer speeds, range and reliability in high- traffic areas, you're equipped with WiFi 6. ExpressCharge powers your device up to 80% in an hour, so you aren't tethered an outlet. A variety of ports, including Type-C™, keep you connected to all your devices without extra dongles. Your Inspiron 16 is EPEAT Silver registered. In addition, 100% of the painted parts use low VOC waterborne paint, and the hinge cap uses bio-based materials from renewable resources. Plus, packaging trays use 100% recycled paper while other packaging components are comprised of up to 90% recycled materials.",
+        "BRND": "Dell"
+    },
+    {
+        "ID": "laptop3",
+        "PROD": "Microsoft Surface Laptop Go 2 12.4\" - 4.2GHz 11th Gen Intel Core i5 - 128 GB - 8GB - Platinum",
+        "GRPH": "Intel Iris Xe graphics",
+        "PRC": 869.99,
+        "MSRP": 869.99,
+        "QTY": 0,
+        "BCKORDER": 6,
+        "DESC": "Sleek and light with performance you can count on. A sleek, portable Surface Laptop with 12.4\" PixelSense touchscreen and great typing experience with precision trackpad, plus the ports you need.Now with an improved HD camera, Windows 11, and a performance boost for the things you love to do.",
+        "BRND": "Microsoft"
+    },
+    {
+        "ID": "laptop4",
+        "PROD": "XPS 17 Laptop",
+        "GRPH": "NVIDIA® GeForce RTX™ 3050, 4 GB GDDR6, 60 W",
+        "PRC": 2399.00,
+        "MSRP": 3449.00,
+        "QTY": 1,
+        "BCKORDER": 1,
+        "DESC": "Fuel even the most intensive creative projects with up to 12th Gen Intel® Core™ processors, NVIDIA® GeForce RTX™ graphics and DDR5 memory. Our most powerful XPS laptop to date. Dell Performance helps unlock access to four modes—quiet, performance, cool and optimized. Each mode tailors fan speeds and battery life, with performance mode unlocking the full power of your PC. With 8 cores and 16 threads, get desktop-level performance to power intense creative programs (2D and 3D) in the convenience of a laptop. Take your projects to a new level. Get AI-acceleration in top creative apps backed by the NVIDIA® Studio platform. The GeForce RTX™ Series laptops are built to perform in record time. The XPS 17 is available with GeForce RTX™ 3050 graphics. The discrete graphics feature offers unique dual opposite outlet fans, resulting in more airflow overall and improved skin temperatures. Stay immersed in the creative flow with high resolution, color-rich panels and increased viewing space to keep you productive. Integrated Eyesafe® display technology helps to reduce harmful blue light while maintaining vivid color. The stunning four-sided Infinity Edge display enables an amazing screen-to-body ratio providing a 17-inch screen in a 15-inch size form factor. XPS configurations badged with Creator Edition have been carefully selected for those wishing to cultivate their content creation skills—be it photography, graphic design, music production or beyond. If you’re looking to do your best work, NVIDIA® GPUs can make it happen—fast. Render quicker. Broadcast clearer. Edit videos better. From raytracing and VR to AI-powered 8K video editing, NVIDIA® GPUs paired with exclusive, free NVIDIA® Studio drivers, boost workflow and brings out the best in your creative apps. A full SD card slot makes the XPS 17 a mecca for photography by enabling rapid import of RAW images. Using authentic premium materials, the XPS 17 is precision cut to achieve a flawless finish look.",
+        "BRND": "Dell"
+    },
+    {
+        "ID": "laptop5",
+        "PROD": "Legion Pro 7i Gen 8 Intel (16\") with RTX 4070",
+        "GRPH": "NVIDIA® GeForce RTX™ 4070 Laptop GPU 8GB GDDR6",
+        "PRC": 2599.99,
+        "MSRP": 2999.99,
+        "QTY": 0,
+        "BCKORDER": 0,
+        "DESC": "Intel's latest hybrid architecture, paired with industry-leading features, delivers the ultimate gaming experience. Stream, create and compete at the highest levels – 13th Gen Intel Core processors push your gameplay beyond performance, giving you the power to do it all. NVIDIA® GeForce RTX™ 40 Series GPUs are beyond fast for gamers and creators. They're powered by the ultra-efficient NVIDIA Ada Lovelace architecture, which delivers a quantum leap in performance and AI-powered graphics. Experience lifelike virtual worlds with ray tracing and ultra-high FPS gaming with the lowest latency. Discover revolutionary new ways to create unprecedented workflow acceleration. Play over 100 high-quality games with your new Lenovo Legion laptop and three months of Xbox Game Pass-including EA Play. With new games added all the time, there's always something new to play. Download and play in full fidelity or play console games from the cloud with a connected controller. Powered by the revolutionary LA-2Q AI chip, Lenovo Legion AI Engine+ is smarter than ever. Leveraging a host of system sensors across key components, in real-time, the Lenovo AI Engine+ deploys a Smart Engine to optimize your game for maximum FPS. Further, the Smart Engine gets better over time, ensuring your system can reach maximum performance to stay ahead of the competition in and out of the arena from the moment you unbox and for years to come. Best-in-class Legion Coldfront 5.0 thermal technology will keep you competing at your best. The improved fan system with 3D blades as thin as .1mm keeps everything running smoothly. The massive intake and exhaust system keeps air flowing through your device for intense thermal efficiency and performance on power-intensive games and programs. Plus, liquid metal enhances heat transfer from the CPU. With vapor chamber technology for both CPU and/or GPU* and hybrid heat pipe technology, this ensures that you can play sweaty while your laptop stays cool.",
+        "BRND": "Lenovo"
+    },
+    {
+        "ID": "laptop6",
+        "PROD": "ASUS Vivobook 16 X1605PA-TS51-CB 16\" Laptop with Intel® i5- 11300H, 512GB SSD, 8GB RAM & Windows 11 Home - Indie Black",
+        "GRPH": "Intel® UHD Graphics integrated graphics",
+        "PRC": 599.99,
+        "MSRP": 749.99,
+        "QTY": 20,
+        "BCKORDER": 0,
+        "DESC": "Everything is smoother with the powerful ASUS Vivobook 16, the feature-packed laptop with user-friendly features including a 180° lay-flat hinge, a physical webcam shield and dedicated function keys to turn your mic on or off. Your health is in safe hands with ASUS Antimicrobial Guard Plus protecting frequently-touched surfaces, and the bigger touchpad is now more finger-friendly. Enjoy the smooth power of Vivobook 16 for everyday use. *The actual transfer speed of USB 3.0, 3.1, 3.2 (Gen 1 and 2), and/or Type-C will vary depending on many factors including the processing speed of the host device, file attributes and other factors related to system configuration and your operating environment.",
+        "BRND": "ASUS"
+    },
+    {
+        "ID": "laptop7",
+        "PROD": "Alienware x14 Gaming Laptop",
+        "GRPH": "NVIDIA® GeForce RTX™ 3050 Ti, 4 GB GDDR6",
+        "PRC": 1599.99,
+        "MSRP": 2399.99,
+        "QTY": 1,
+        "BCKORDER": 2,
+        "DESC": "Game, work or study for hours on end with the world’s thinnest 14″ gaming laptop, which features Type-C charging ports, the world’s highest WHr battery in a 14″ gaming PC and exclusive Alienware Cryo-tech™ cooling technologies.",
+        "BRND": "Alienware"
+    },
+    {
+        "ID": "laptop8",
+        "PROD": "Acer CB311-10H-4995 HD 11.6\" Chromebook - AMD A4 - 9120C - 64GB eMMC - 4GB RAM - Chrome OS - Black",
+        "GRPH": "AMD Radeon R4 Graphics",
+        "PRC": 319.99,
+        "MSRP": 319.99,
+        "QTY": 0,
+        "BCKORDER": 0,
+        "DESC": "The ultraportable Acer Chromebook 311 is designed for classes, projects, and everyday activities. Combining a pleasant typing experience, long battery life, and the latest connectivity and security features. The thin and light design makes it the ideal companion for being taken around all day.",
+        "BRND": "Acer"
+    },
+    {
+        "ID": "laptop9",
+        "PROD": "ThinkPad X1 Carbon Gen 9 Intel (14\") - Black",
+        "GRPH": "Integrated Intel® Iris® Xe Graphics",
+        "PRC": 1201.00,
+        "MSRP": 3229.00,
+        "QTY": 5,
+        "BCKORDER": 3,
+        "DESC": "With the Intel® Evo™ platform, the ThinkPad X1 Carbon Gen 9 laptop delivers a powerhouse combination of performance, responsiveness, battery life, and stunning visuals. With up to 11th Gen Intel® Core™ i7 vPro® processors, you can count on an exceptional experience, anywhere. The new one-bar hinge, dual fan, and rear venting for an improved Intelligent Thermal Solution mean you can put in long hours on the job, and the ThinkPad X1 Carbon Gen 9 laptop will stay as cool as you are. With an updated suite of built-in ThinkShield security solutions, safeguards your ThinkPad X1 Carbon Gen 9 and your data. Biometrics provide an extra-secure fingerprint reader that is standard and is integrated with the power button—so you can log in and boot up instantaneously. Human-presence detection automatically locks your device when you move away, and in combination with the optional IR camera, it enables zero-touch login even from sleep. Plus, choose the PrivacyGuard display panel to ensure wandering eyes can’t see what’s on your screen. The Lenovo ThinkPad X1 Carbon Gen 9 features a refined 16:10 display with narrow bezels and a rich, high-resolution screen. Choose the UHD+ panel with Dolby Vision™ to improve your viewing experience. Powerful Intel® Iris™ Xe graphics render amazing picture clarity and colour accuracy—whether you’re video-conferencing, browsing, or watching media. Not only is this low-power panel energy efficient, but it’s also TÜV Rheinland-certified for reduced blue-light emissions to promote eye-care health. The Dolby Atmos® Speaker System on the ThinkPad X1 Carbon Gen 9 laptop includes two upward-firing speakers and two downward-firing woofers—this creates an immersive sound experience you’ll enjoy for work and for play. Dolby Voice® and four 360-degree far-field mics combined with a high-definition camera for visual clarity improve remote collaboration and ensure you’re heard loud and clear during calls.",
+        "BRND": "Lenovo"
+    },
+    {
+        "ID": "laptop10",
+        "PROD": "G15 Gaming Laptop",
+        "GRPH": "NVIDIA® GeForce RTX™ 3060, 6 GB GDDR6",
+        "PRC": 1199.99,
+        "MSRP": 2049.99,
+        "QTY": 3,
+        "BCKORDER": 2,
+        "DESC": "Alienware-inspired thermal design features optimal cooling thanks to dual air-intake, ultra-thin fan blades, copper pipes and four strategically-placed vents. As a result, you can expect your system to stay cool when the action heats up. And with up to 12th Gen Intel® i5 12-core or i7 14-core processors plus optimized performance profiles, you can revel in powerful and consistent high-end performance during every gaming experience. Get fully immersed in every experience thanks to the smooth rendering from discrete graphics up to NVIDIA® GeForce RTX™ 3060 and vivid colors of the FHD display panel up to 165Hz with 300-nits. Plus, with up to 8GB GDDR6 of dedicated memory, you can experience thrilling action with faster loading times and a quieter system. The highly mobile, gaming-inspired design features a new robust finish that's easy to care for and available in three colors to suit your style: Dark Shadow Grey, Phantom Grey with speckles, or Specter Green with Camouflage (coming soon). Give yourself a turbo-boost of power with a simple press of a button. The Game Shift function is activated by pressing FN + the Game Shift (F9) key and triggers a dynamic performance mode within the Alienware Command Center by maximizing the fans' speed to keep your system cool while the processors work harder. With the Alienware Command Center on Dell G Series, not only can you tailor the hardware for each and every game you play, you can personalize the space and setup to make your software look and feel precisely the way you want it, without interfering with your gameplay or other activities. The easy-to-use interface links all your various system settings with a gaming library, making it simple to access gaming information. No matter what the source, the command center gives you easy access to your games and the ability to fine-tune settings for each one. Create a unique game profile and it stays just how you want it, no matter where you launch.",
+        "BRND": "Dell"
+    },
+    {
+        "ID": "laptop11",
+        "PROD": "Yoga 7i (14\" Intel) - Storm Grey",
+        "GRPH": "Integrated Intel® Iris® Xe Graphics",
+        "PRC": 1201.29,
+        "MSRP": 1464.99,
+        "QTY": 8,
+        "BCKORDER": 1,
+        "DESC": "Thanks to the Yoga 7i laptop’s 13th Gen Intel® Evo processors, you’re able to make, create, multi-task and more. Plus, this thin and light convertible laptop delivers a premium mobile experience while minimizing impact to responsiveness, battery life, or connectivity. With a phenomenal 2-in-1, 360-degree convertible chassis that’s thin and light, the Yoga 7i laptop gives you the flexibility to easily swap modes and do more. Plus, with military-grade rugged MIL STD 810H standards, this device can handle whatever is thrown its way. Take your visual experience to the next level on the Yoga 7i. With a stunning display featuring Dolby Vision™ and a 2.2K IPS touchscreen, you’ll see true black hues and more vibrant, ultra-vivid colours. And with user-facing speakers enhanced by Dolby Atmos®, you’ll get lost in the audio that flows around you in 3D space. The Yoga 7i ensures you stay productive on the go thanks to an all-day battery that provides of 17 hours of video playback. And when the battery runs out, you’ll be back up and running in no time with rapid charge technology. In today’s hybrid lifestyle videocalls are important. That’s why the Yoga 7i laptop is equipped with a 2MP 1080p FHD camera and smart noise cancellation technology. From work meetings to video chats, your calls will come in crisp and clear. And with Smart log-in and a privacy shutter, you’ll be able to log in privately and secure.",
+        "BRND": "Lenovo"
+    },
+    {
+        "ID": "laptop12",
+        "PROD": "Asus ROG Strix G15 15.6\" R7- 6800H / 16GB RAM / 1TB SSD / RTX3050 / Windows 11 Home Gaming Laptop - Eclipse Grey(G513RC - DS71 - CA) ",
+        "GRPH": "NVIDIA® GeForce RTX 3050",
+        "PRC": 1198.00,
+        "MSRP": 1599.00,
+        "QTY": 10,
+        "BCKORDER": 0,
+        "DESC": "Focused firepower streamlines and elevates the core Windows 11 gaming experience in the ROG Strix G15. No matter what your game is, you can achieve your perfect play.",
+        "BRND": "ASUS"
+    },
+    {
+        "ID": "laptop13",
+        "PROD": "Apple Macbook Pro 13.3-inch (Space Gray, TB)",
+        "GRPH": "Intel Iris Plus 645",
+        "PRC": 1016.00,
+        "MSRP": 1016.00,
+        "QTY": 13,
+        "BCKORDER": 0,
+        "DESC": "The MacBook Pro \"Core i5\" 2.0 13-Inch (2020, Scissor Keyboard, Four Thunderbolt 3 Ports) is powered by a 10-nm, 10th Generation \"Ice Lake\" 2.0 GHz Intel \"Core i5\" processor (I5-1038NG7), with four independent processor \"cores\" on a single silicon chip and a shared 6 MB level 3 cache. Customize your hard drive and memory, and an integrated Intel Iris Plus graphics processor that shares system memory.",
+        "BRND": "Apple"
+    },
+    {
+        "ID": "laptop14",
+        "PROD": "Apple 2020 MacBook Air Laptop",
+        "GRPH": "Apple M1 chip",
+        "PRC": 1099.99,
+        "MSRP": 1299.99,
+        "QTY": 3,
+        "BCKORDER": 0,
+        "DESC": "Go longer than ever with up to 18 hours of battery life. Take on everything from professional-quality editing to action-packed gaming with ease. The Apple M1 chip with an 8-core CPU delivers up to 3.5x faster performance than the previous generation while using way less power. 8GB of unified memory makes your entire system speedy and responsive. That way it can support tasks like memory-hogging multitab browsing and opening a huge graphic file quickly and easily. With a 13.3â€ Retina display, images come alive with new levels of realism. Text is sharp and clear, and colors are more vibrant. Easy to learn. Easy to set up. Astoundingly powerful. Intuitive. Packed with apps to use right out of the box. Mac is designed to let you work, play, and create like never before. All your existing apps work, including Adobe Creative Cloud, Microsoft 365, and Google Drive. Plus you can use your favorite iPhone and iPad apps directly on macOS. Altogether you'll have access to the biggest collection of apps ever for Mac. All available on the App Store. If you already have an iPhone, MacBook Air feels familiar from the moment you turn it on. And it works perfectly with all your Apple devices. Use your iPad to extend the workspace of your Mac, answer texts and phone calls directly on your Mac, and more.",
+        "BRND": "Apple"
+    },
+    {
+        "ID": "laptop15",
+        "PROD": "13-inch MacBook Pro - Space Grey",
+        "GRPH": "Apple M2 chip",
+        "PRC": 1699.00,
+        "MSRP": 2099.00,
+        "QTY": 1,
+        "BCKORDER": 0,
+        "DESC": "The new M2 chip makes the 13‑inch MacBook Pro more capable than ever. The same compact design supports up to 20 hours of battery life1 and an active cooling system to sustain enhanced performance. Featuring a brilliant Retina display, a FaceTime HD camera and studio‑quality mics, it’s our most portable pro laptop.",
+        "BRND": "Apple"
+    }
+]
