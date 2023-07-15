@@ -2,7 +2,7 @@
     {
         "ID": "laptop1",
         "PROD":"IdeaPad Slim 3 (15\" AMD) - Abyss Blue",
-        "GRPH":"Integrated AMD Radeon™ Graphics",
+        "GRPH":"IdeaPadSlim3AbyssBlue.png",
         "PRC": 584.99,
         "MSRP": 929.99,
         "QTY": 3,
@@ -13,7 +13,7 @@
     {
         "ID": "laptop2",
         "PROD": "Inspiration 16 laptop",
-        "GRPH": "AMD Radeon™ Graphics",
+        "GRPH": "Inspiration16.png",
         "PRC": 999.99,
         "MSRP": 1399.99,
         "QTY": 10,
@@ -24,7 +24,7 @@
     {
         "ID": "laptop3",
         "PROD": "Microsoft Surface Laptop Go 2 12.4\" - 4.2GHz 11th Gen Intel Core i5 - 128 GB - 8GB - Platinum",
-        "GRPH": "Intel Iris Xe graphics",
+        "GRPH": "MicrosoftSurfaceLaptopGo2Platinum.png",
         "PRC": 869.99,
         "MSRP": 869.99,
         "QTY": 0,
@@ -35,7 +35,7 @@
     {
         "ID": "laptop4",
         "PROD": "XPS 17 Laptop",
-        "GRPH": "NVIDIA® GeForce RTX™ 3050, 4 GB GDDR6, 60 W",
+        "GRPH": "XPS17.png",
         "PRC": 2399.00,
         "MSRP": 3449.00,
         "QTY": 1,
@@ -46,7 +46,7 @@
     {
         "ID": "laptop5",
         "PROD": "Legion Pro 7i Gen 8 Intel (16\") with RTX 4070",
-        "GRPH": "NVIDIA® GeForce RTX™ 4070 Laptop GPU 8GB GDDR6",
+        "GRPH": "LegionPro7iGen8Intel.png",
         "PRC": 2599.99,
         "MSRP": 2999.99,
         "QTY": 0,
@@ -57,7 +57,7 @@
     {
         "ID": "laptop6",
         "PROD": "ASUS Vivobook 16 X1605PA-TS51-CB 16\" Laptop with Intel® i5- 11300H, 512GB SSD, 8GB RAM & Windows 11 Home - Indie Black",
-        "GRPH": "Intel® UHD Graphics integrated graphics",
+        "GRPH": "AsusVivobook16IndieBlack",
         "PRC": 599.99,
         "MSRP": 749.99,
         "QTY": 20,
@@ -68,7 +68,7 @@
     {
         "ID": "laptop7",
         "PROD": "Alienware x14 Gaming Laptop",
-        "GRPH": "NVIDIA® GeForce RTX™ 3050 Ti, 4 GB GDDR6",
+        "GRPH": "Alienwarex14.png",
         "PRC": 1599.99,
         "MSRP": 2399.99,
         "QTY": 1,
@@ -79,7 +79,7 @@
     {
         "ID": "laptop8",
         "PROD": "Acer CB311-10H-4995 HD 11.6\" Chromebook - AMD A4 - 9120C - 64GB eMMC - 4GB RAM - Chrome OS - Black",
-        "GRPH": "AMD Radeon R4 Graphics",
+        "GRPH": "AcerChromebookBlack.png",
         "PRC": 319.99,
         "MSRP": 319.99,
         "QTY": 0,
@@ -90,7 +90,7 @@
     {
         "ID": "laptop9",
         "PROD": "ThinkPad X1 Carbon Gen 9 Intel (14\") - Black",
-        "GRPH": "Integrated Intel® Iris® Xe Graphics",
+        "GRPH": "ThinkPadX1CarbonBlack.png",
         "PRC": 1201.00,
         "MSRP": 3229.00,
         "QTY": 5,
@@ -101,7 +101,7 @@
     {
         "ID": "laptop10",
         "PROD": "G15 Gaming Laptop",
-        "GRPH": "NVIDIA® GeForce RTX™ 3060, 6 GB GDDR6",
+        "GRPH": "G15GamingLaptop.png",
         "PRC": 1199.99,
         "MSRP": 2049.99,
         "QTY": 3,
@@ -112,7 +112,7 @@
     {
         "ID": "laptop11",
         "PROD": "Yoga 7i (14\" Intel) - Storm Grey",
-        "GRPH": "Integrated Intel® Iris® Xe Graphics",
+        "GRPH": "Yoga7iStormGrey.png",
         "PRC": 1201.29,
         "MSRP": 1464.99,
         "QTY": 8,
@@ -122,8 +122,8 @@
     },
     {
         "ID": "laptop12",
-        "PROD": "Asus ROG Strix G15 15.6\" R7- 6800H / 16GB RAM / 1TB SSD / RTX3050 / Windows 11 Home Gaming Laptop - Eclipse Grey(G513RC - DS71 - CA) ",
-        "GRPH": "NVIDIA® GeForce RTX 3050",
+        "PROD": "Asus ROG Strix G15 15.6\" R7- 6800H / 16GB RAM / 1TB SSD / RTX3050 / Windows 11 Home Gaming Laptop - Eclipse Grey(G513RC - DS71 - CA)",
+        "GRPH": "AsusROGStrixG15EclipseGrey.png",
         "PRC": 1198.00,
         "MSRP": 1599.00,
         "QTY": 10,
@@ -134,7 +134,7 @@
     {
         "ID": "laptop13",
         "PROD": "Apple Macbook Pro 13.3-inch (Space Gray, TB)",
-        "GRPH": "Intel Iris Plus 645",
+        "GRPH": "AppleMacbookProSpaceGrey.png",
         "PRC": 1016.00,
         "MSRP": 1016.00,
         "QTY": 13,
@@ -145,7 +145,7 @@
     {
         "ID": "laptop14",
         "PROD": "Apple 2020 MacBook Air Laptop",
-        "GRPH": "Apple M1 chip",
+        "GRPH": "AppleMacbookAir2020.png",
         "PRC": 1099.99,
         "MSRP": 1299.99,
         "QTY": 3,
@@ -156,12 +156,23 @@
     {
         "ID": "laptop15",
         "PROD": "13-inch MacBook Pro - Space Grey",
-        "GRPH": "Apple M2 chip",
+        "GRPH": "MacbookProSpaceGrey.png",
         "PRC": 1699.00,
         "MSRP": 2099.00,
         "QTY": 1,
         "BCKORDER": 0,
         "DESC": "The new M2 chip makes the 13‑inch MacBook Pro more capable than ever. The same compact design supports up to 20 hours of battery life1 and an active cooling system to sustain enhanced performance. Featuring a brilliant Retina display, a FaceTime HD camera and studio‑quality mics, it’s our most portable pro laptop.",
         "BRND": "Apple"
+    },
+    {
+        "ID": "laptop16",
+        "PROD": "IdeaPad Slim 9i (14" Intel) - Shadow Black",
+        "GRPH": "IdeaPadSlim9iShadowBlack.png",
+        "PRC": 1299.39,
+        "MSRP": 2169.99,
+        "QTY": 1,
+        "BCKORDER": 1,
+        "DESC": "Introducing the Intel® Evo™ platform for the perfect combination of performance, responsiveness, battery life, and stunning visuals in a new class of sleek, stylish laptops. Co-engineered by Lenovo and Intel® to provide the ultimate experience for life and work anywhere. And with plentiful LPDDR4X memory and a solid-state hard drive, the IdeaPad Slim 9i is ready to multi-task and run demanding programs that will keep you engaged for hours. You’ll also enjoy remarkable connectivity with Intel® WiFi 6, and three Thunderbolt™ 4 ports for connecting to the latest and greatest peripherals. The IdeaPad Slim 9i laptop earns its name with an ultra-sleek design, featuring precision-machined, aerospace-grade aluminum. Its metal frame is bonded to a black cover of responsibly sourced genuine leather hand-crafted via a 20-step process of assembly and inspection. This special process allows the leather to retain its original appearance and natural imperfections that make each laptop unique. For added form and function, an edge-to-edge glass palm rest with the all new Glass Sense Touchpad brings a luxurious look while providing 50% more active surface area and haptic feedback. Get the most out of your entertainment, with a 14 inch display that’s blissfully bright and colourful, equipped with up to 4K VESA400 HDR for razor-sharp visuals. Push the limits of picture quality even further with Dolby Vision™, which affords incredibly vast colour palettes, sharper contrasts and an uncompromised viewing experience, while Intel® Iris® Xe graphics brings richer gaming experiences and speeds for designers and creators. Paired with dual front-facing Dolby Atmos® speakers for flowing audio that moves above and around you, the IdeaPad Slim 9i offers sublimely immersive media experiences. Get started faster than ever by simply opening your lid and logging in with hands-free facial recognition thanks to the IdeaPad Slim 9i's infrared (IR) webcam and Windows Hello.",
+        "BRND": "Lenovo"
     }
 ]
